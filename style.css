@@ -1,0 +1,34 @@
+
+div{
+    text-align: center;
+   margin-top: 150px;
+}
+h1{
+    font-size: 70px;
+    color: blue;
+}
+#taskInput{
+    padding: 20px;
+    width: 20%;
+    font-size: 25px;
+    border-radius: 40px;
+}
+
+#addTaskBtn{
+    padding: 7px;
+    border-radius: 20px ;
+    background-color: aqua;
+    font-size: 25px;
+}
+
+#taskList{
+    font-size: 25px;
+    color: brown;
+}
+
+#saveBtn{
+    padding: 7px;
+    border-radius: 20px ;
+    background-color: rgb(50, 185, 37);
+    font-size: 25px;
+}
